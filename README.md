@@ -10,10 +10,10 @@ A powerful Leader-Based Community Detection Algorithm tailored for Attributed Ne
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Methodology](#Methodology)
-- [Datasets](#Datasets)
-- [Results](#Results)
-- [Visualizations](#Visualizations)
+- [Methodology](#methodology)
+- [Datasets](#datasets)
+- [Results](#results)
+- [Visualizations](#visualizations)
 
 
 ## Introduction
@@ -61,4 +61,8 @@ The project also provides visualizations of the network and community structures
 
 - **Visualizations of Facebook Dataset**
   
-![Alt text](Visualisation/Facebook/FINAL RESULT.png)
+![Alt text](Visualisation/Facebook/output.png)
+
+
+## Contact
+For any queries or suggestions, feel free to reach out to us.
