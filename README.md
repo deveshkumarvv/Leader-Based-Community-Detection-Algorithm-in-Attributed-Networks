@@ -14,6 +14,7 @@ A powerful Leader-Based Community Detection Algorithm tailored for Attributed Ne
 - [Datasets](#datasets)
 - [Results](#results)
 - [Visualizations](#visualizations)
+- [Contact](#contact)
 
 
 ## Introduction
